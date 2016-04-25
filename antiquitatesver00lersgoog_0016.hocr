@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./antiquitatesver00lersgoog_0016.png"; bbox 0 0 3022 5234; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 708 1593 746 1678">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 708 1593 746 1678">
+     <span class='ocr_line' id='line_1_1' title="bbox 708 1593 746 1678; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 708 1593 746 1678; x_wconf 88' lang='grc'>1.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 443 1914 1017 2052">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 443 1914 1017 2052">
+     <span class='ocr_line' id='line_1_2' title="bbox 443 1914 1017 2052; baseline -0.028 -18"><span class='ocrx_word' id='word_1_2' title='bbox 443 1927 560 2032; x_wconf 70' lang='lat' dir='ltr'>lle</span> <span class='ocrx_word' id='word_1_3' title='bbox 594 1914 1017 2052; x_wconf 67' lang='lat' dir='ltr'><strong>republica.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 560 2443 1275 2599">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 560 2443 1275 2599">
+     <span class='ocr_line' id='line_1_3' title="bbox 560 2443 1275 2516; baseline -0.014 -13"><span class='ocrx_word' id='word_1_4' title='bbox 560 2456 600 2504; x_wconf 75' lang='lat' dir='ltr'>&#39;l&#39;u</span> <span class='ocrx_word' id='word_1_5' title='bbox 618 2465 712 2516; x_wconf 79' lang='lat' dir='ltr'>regere</span> <span class='ocrx_word' id='word_1_6' title='bbox 730 2450 834 2513; x_wconf 77' lang='lat' dir='ltr'>inperio</span> <span class='ocrx_word' id='word_1_7' title='bbox 852 2443 979 2513; x_wconf 67' lang='lat' dir='ltr'><strong>populos,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 998 2449 1126 2509; x_wconf 78' lang='lat' dir='ltr'>Romane,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1144 2445 1275 2494; x_wconf 78' lang='lat' dir='ltr'><strong>memento</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1096 2538 1224 2599; baseline 0 -12"><span class='ocrx_word' id='word_1_10' title='bbox 1096 2539 1144 2599; x_wconf 79' lang='lat' dir='ltr'>vl,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1162 2538 1224 2587; x_wconf 69' lang='lat'>852.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 197 4867 583 4924">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 197 4867 583 4924">
+     <span class='ocr_line' id='line_1_5' title="bbox 197 4867 583 4924; baseline 0 -15"><span class='ocrx_word' id='word_1_12' title='bbox 197 4867 277 4911; x_wconf 66' lang='lat' dir='ltr'>horuch</span> <span class='ocrx_word' id='word_1_13' title='bbox 290 4868 425 4920; x_wconf 70' lang='lat' dir='ltr'>miquimu</span> <span class='ocrx_word' id='word_1_14' title='bbox 439 4869 583 4924; x_wconf 61' lang='lat' dir='ltr'>vergilium.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1516 5234">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1516 5234">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1516 5234; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1516 5234; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
